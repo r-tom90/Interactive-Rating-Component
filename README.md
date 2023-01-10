@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/r-tom90/Interactive-Rating-Component](https://github.com/r-tom90/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://r-tom90.github.io/Interactive-Rating-Component/](https://r-tom90.github.io/Interactive-Rating-Component/)
 
 ### Built with
 
